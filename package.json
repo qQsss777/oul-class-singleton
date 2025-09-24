@@ -2,7 +2,7 @@
   "name": "@qqsss777/oul-class-singleton",
   "version": "0.1.1",
   "license": "MIT",
-  "author": "Marc Lemoigne",
+  "author": "qqsss777",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
