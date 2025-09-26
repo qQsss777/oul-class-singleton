@@ -7,12 +7,19 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "repository": {
-    "url": "https://github.com/qQsss777/oul-class-singleton"
+    "type": "git",
+    "url": "git+https://github.com/qQsss777/oul-class-singleton"
   },
+   "bugs": {
+    "url": "https://github.com/qQsss777/oul-class-singleton/issues"
+  },
+  "homepage": "https://github.com/qQsss777/oul-class-singleton#readme",
   "files": [
     "dist",
-    "Readme.md"
+    "README.md",
+    "LICENSE.md"
   ],
+  "keywords": ["class", "utils", "singleton", "esm"],
   "scripts": {
     "build": "tsc",
     "prettier": "prettier . --write",
