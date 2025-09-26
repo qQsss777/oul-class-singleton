@@ -1,6 +1,6 @@
 {
   "name": "@qqsss777/oul-class-singleton",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "qqsss777",
   "type": "module",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/qQsss777/oul-class-singleton"
   },
-   "bugs": {
+  "bugs": {
     "url": "https://github.com/qQsss777/oul-class-singleton/issues"
   },
   "homepage": "https://github.com/qQsss777/oul-class-singleton#readme",
@@ -19,7 +19,12 @@
     "README.md",
     "LICENSE.md"
   ],
-  "keywords": ["class", "utils", "singleton", "esm"],
+  "keywords": [
+    "class",
+    "utils",
+    "singleton",
+    "esm"
+  ],
   "scripts": {
     "build": "tsc",
     "prettier": "prettier . --write",
